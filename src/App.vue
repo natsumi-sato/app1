@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+  こんにちは
     <router-view/>
   </div>
 </template>
