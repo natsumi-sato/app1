@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'クァwせdrftgyふじk'
+      msg: '新潟にきました！'
     }
   }
 }
